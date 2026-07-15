@@ -8,7 +8,6 @@ A CSS practice task focused on using the `nth-child()` selector to select and st
 
 ## File
 
-- `index.html`  
   Contains all exercises with their CSS styling.
 
 ## Exercises
